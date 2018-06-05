@@ -33,5 +33,7 @@
 -Correção do Erro ao cadastrar empresa na EntradAvulsa
 
 -Implemtação de Permite Liberação no Tipos De Pessoa vigente
+
+-Liberação de acesso ao Relatório de Entrada Avulsa pelo Porteiro
 # Versão 3.1.4
 ////////////////////////////////////////////////////////////////////////////////////////////
